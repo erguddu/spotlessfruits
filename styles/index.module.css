@@ -1,0 +1,58 @@
+.Rakesh{
+    
+    text-align: center ;
+    color: blue;
+}
+
+.bgimage{
+    background-image: url('../public/images/bg.webp');
+    overflow: fill;
+    background-attachment: scroll;
+    z-index: -1;
+    background-repeat: no-repeat;
+  
+    background-size: 220vh 100vh;
+    height: 611px;
+}
+
+.bordetext{
+    margin-top: 20px;
+    z-index: -1;
+    border: 15px solid green;
+    width: 816px;
+    height: 146px;
+    margin-left: 20px;
+    
+}
+
+.parallaxTitle{
+   z-index: -1;
+    size: 100%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    background-color: #F7D56F;
+    width: 75%;
+    
+    margin-left: 90px;
+   letter-spacing: 1px;
+   filter: brightness(100%);
+   box-shadow: #FADE8F;
+   
+    
+}
+
+
+/* bg images footernav bar coding  */
+
+.bgBox{
+    background-image: url('https://www.spotlessfruits.com/cdn/shop/files/bg-fruit_32ee0606-c8d1-4bcf-a25f-b00286ecae58.jpg?v=1615656259');
+    overflow: fill;
+    background-attachment: scroll;
+    z-index: -1;
+    background-repeat: no-repeat;
+  
+    background-size: 120vh 50vh;
+    height: 611px;
+
+}
