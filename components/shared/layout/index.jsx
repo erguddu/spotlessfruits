@@ -54,7 +54,7 @@ const menus = [
     },
     {
         label: "Immunity Booster",
-        href: "/",
+        href: "/imunity",
         icon: <UserOutlined />
     },
     {

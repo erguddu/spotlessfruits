@@ -166,7 +166,7 @@ const Fruits = () => {
 
                                                 {/* End Product collection  */}
                                             </div>
-                                                <Menu
+                                                {/* <Menu
                                                     onClick={(item)=>{
 
                                                     }}
@@ -191,7 +191,7 @@ const Fruits = () => {
 
                                                     ]}
                                                 
-                                                />
+                                                /> */}
                                             </Sider>
                                             <Layout
                                                 style={{
