@@ -49,7 +49,7 @@ const menus = [
 
     {
         label: "Fresh Fruits",
-        href: "",
+        href: "/fruits",
         icon: <UserOutlined />
     },
     {
