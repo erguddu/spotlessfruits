@@ -59,7 +59,7 @@ const menus = [
     },
     {
         label: "Dry Fruits",
-        href: "/",
+        href: "/dryfruits",
         icon: <UserOutlined />
     },
     {
